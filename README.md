@@ -12,3 +12,11 @@ The dataset was then split into train and test sets at a 90-10 ratio. Following 
 
 ## Results
 Out of the models we tried, the network that gave the best performance and its accuracy score on the test  and train sets are given below.
+
+![LSTM Network](https://github.com/muhammedsalihk/Sentiment-Classification-using-LSTM/blob/master/Images/download.png)
+
+| Set | Accuracy Score |
+| ------------- | ------------- |
+| Test  | 0.8610  |
+| Train  | 0.9019  |
+| Validation  | 0.8640  |
