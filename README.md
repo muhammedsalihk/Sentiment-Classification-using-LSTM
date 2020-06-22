@@ -18,7 +18,7 @@ Out of the models we tried, the network that gave the best performance and its a
 **Model Performance**
 
 | Set | Accuracy Score |
-| ------------- | ------------- |
+| ------------- | :---: |
 | Test  | 0.8610  |
 | Train  | 0.9019  |
 | Val  | 0.8640  |
