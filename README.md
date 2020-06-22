@@ -15,8 +15,10 @@ Out of the models we tried, the network that gave the best performance and its a
 
 ![LSTM Network](https://github.com/muhammedsalihk/Sentiment-Classification-using-LSTM/blob/master/Images/download.png)
 
+**Model Performance**
+
 | Set | Accuracy Score |
 | ------------- | ------------- |
 | Test  | 0.8610  |
 | Train  | 0.9019  |
-| Validation  | 0.8640  |
+| Val  | 0.8640  |
